@@ -1,2 +1,2 @@
 # gcform
-Create stellar mass function of a globular cluster with accretion extremely massive stars (aEMS) as described in Gieles, Padoan, et al. 2025 (https://arxiv.org/abs/2501.12138)
+Create stellar mass function of a globular cluster (GC) with accreting extremely massive stars (aEMS) to describe the origin of multiple populations (MPs) of GCs. Code and results are described in Gieles, Padoan, et al. 2025 (https://arxiv.org/abs/2501.12138)
